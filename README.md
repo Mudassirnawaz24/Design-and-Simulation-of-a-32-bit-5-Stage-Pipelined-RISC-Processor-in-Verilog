@@ -117,9 +117,7 @@ The [`Common`](https://github.com/naderabdalghani/32-bit-risc-pipelined-processo
 [sp-memory]: Assets/sp_memory.png
 [write-back]: Assets/write_back.png
 
-## Contributors
+## Author
+ 
+* [Shaik Mudassir Nawaz](https://github.com/Mudassirnawaz24) - [LinkedIn](https://www.linkedin.com/in/shaik-mudassir-nawaz-6a7a57277/)
 
-* [Sarah Ra'fat](https://github.com/sarahRaafat15)
-* [Mahmoud Mohamad](https://github.com/mmmacmp)
-* [Muhanad Atef](https://github.com/MuhanadAtef)
-* [Nader AbdAlGhani](https://github.com/naderabdalghani)
